@@ -1,0 +1,2 @@
+Total Coins:: penny:15 dime:94 quar:4 half:14 doll:6
+Total: 2435 cents
